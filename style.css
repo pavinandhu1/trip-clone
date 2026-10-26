@@ -894,5 +894,20 @@ body {
         left: 85%;
         top: 650px;
     }
+}
+
+@media screen and (max-width:550px){
+        
+.help-container__s1 img{
+    width: 150px;
+    height: 200px;
+}
+.footer{
+    gap: 0px;
+    font-size: 5px;
+}
+.big{
+    font-size: 8px;
+}
 
 }
