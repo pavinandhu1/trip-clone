@@ -342,8 +342,9 @@ body {
         display: none;
     }
 
-    .categories {
+    .categories__s1,categories__s2 {
         display: none;
+        
     }
 
     .navbar__s4 {
@@ -534,7 +535,7 @@ body {
         display: none;
     }
 
-    .categories {
+    .categories__s1 {
         display: none;
     }
 
@@ -608,10 +609,8 @@ body {
 
     .footer {
         font-size: 12px;
-        padding: 20px;
-        background-color: rgb(247, 230, 233);
-        color: black;
-        display: flex;
+        padding: 10px;
+        gap:5px;
     }
 
     .footer__one {
@@ -716,7 +715,7 @@ body {
         display: none;
     }
 
-    .categories {
+    .categories__s1,.categories__s2 {
         display: none;
     }
 
@@ -776,7 +775,7 @@ body {
     .chennai-container__card p {
         position: absolute;
         top: 20px;
-        left: 200px;
+        left: 120px;
         background-color: white;
         padding: 5px;
         border-radius: 15px;
@@ -796,11 +795,11 @@ body {
 
     .footer {
         font-size: 7px;
-        padding: 5px;
+        padding: 2px;
         background-color: rgb(247, 230, 233);
         color: black;
         display: flex;
-        gap: 20px;
+        gap: 2px;
     }
 
     .footer__one {
@@ -878,7 +877,7 @@ body {
     }
 
     .logos__s1 p {
-        font-size: 12px;
+        font-size: 8px;
     }
 
     .logos__s2 {
